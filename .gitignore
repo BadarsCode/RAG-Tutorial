@@ -12,3 +12,6 @@ notebook/.env
 data/vector_store/
 notebook/.env
 data/vector_store/
+notebook/.env
+notebook/document.ipynb
+data/vector_store/
