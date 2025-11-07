@@ -15,6 +15,7 @@ data/vector_store/
 notebook/.env
 notebook/document.ipynb
 data/vector_store/
+*.sqlite3
 .env
 data/vector_store/
 .env
